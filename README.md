@@ -1,2 +1,10 @@
 # P4DS_Earthquakes
-Study about an earthquake dataset
+
+- BONNELL Hugo
+- HAMADEH Rayan
+- BLANCHET Lucas
+- AFFES Nour
+- MAARBANI Yasmine
+- BRUN Pierre-Louis
+
+The HTML Dashboard is inside the BonnellHugoEarthquakes.html file, at the end.
